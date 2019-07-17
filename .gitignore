@@ -4,6 +4,7 @@ bin/
 *.bak
 .idea/
 
+
 #MSVC
 *.db
 *.pdb
@@ -12,6 +13,7 @@ Debug/
 *.VC.db
 *.opendb
 *.VC
+ipch/
 
 # Prerequisites
 *.d
